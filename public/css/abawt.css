@@ -1,0 +1,21 @@
+a:hover {
+    text-decoration: none;
+}
+
+.social-list {
+    clear: both;
+}
+
+.social-list li {
+    padding: 10px;
+}
+
+ul.list-inline {
+    display: inline-flex;
+    list-style: none;
+}
+
+ul.list-inline a {
+    display: block;
+    padding: 10px;
+}
